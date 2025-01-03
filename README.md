@@ -1,4 +1,14 @@
-## Welcome to Coding with Bobby.
+## Welcome to Social Media Backend API
+
 This project is based on Python based framework FastAPI.
 
-Here is the [link](https://www.youtube.com/playlist?list=PLrfpeWKkiMnWEHAxEK4Qa7ZH2RLRS8FdQ) to video tutorials.
+Things included in this project are :
+
+Authentication : JWT Auth 
+
+POST : simple and robust way of posting on social media platform
+
+ACTIVITY : track the count of likes and dislikes
+
+PROFILE : a profile for user
+
